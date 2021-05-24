@@ -1,0 +1,21 @@
+PODS:
+  - MyFramework (0.1.1)
+
+DEPENDENCIES:
+  - MyFramework (from `https://github.com/alexeybolv/MyFramework.git`)
+
+EXTERNAL SOURCES:
+  MyFramework:
+    :git: https://github.com/alexeybolv/MyFramework.git
+
+CHECKOUT OPTIONS:
+  MyFramework:
+    :commit: 64563918c65bd3cc7174ceae2d959d2834403dcb
+    :git: https://github.com/alexeybolv/MyFramework.git
+
+SPEC CHECKSUMS:
+  MyFramework: 5231de16e2fe14f8ab8040541b1062c0bf50dc9b
+
+PODFILE CHECKSUM: b9f3dd19b177593af69bac92f9d8d9e7adc96db5
+
+COCOAPODS: 1.10.1

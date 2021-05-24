@@ -1,0 +1,22 @@
+{
+  "name": "MyFramework",
+  "version": "0.1.1",
+  "license": "MIT",
+  "summary": "Test",
+  "homepage": "https://github.com/alexeybolv/MyFramework",
+  "authors": {
+    "Alexey Bolvonovich": "alexeybolv@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/alexeybolv/MyFrameworkDistribution.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "14.5"
+  },
+  "swift_versions": "5.4",
+  "ios": {
+    "vendored_frameworks": "MyFramework.xcframework"
+  },
+  "swift_version": "5.4"
+}
